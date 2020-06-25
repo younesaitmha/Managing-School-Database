@@ -12,5 +12,9 @@
 > mysql-connector \
 > pillow
 
-for the installation use the command
-> pip install -r requirements.txt
+* for the installation use the command
+    > pip install -r requirements.txt
+
+* install MYSQL
+
+* create the database in mysql by the code in the file **ScriptToCreateDatabase.sql**

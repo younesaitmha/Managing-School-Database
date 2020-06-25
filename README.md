@@ -1,4 +1,5 @@
 # Managing-School-Database
 
-![]
-![ GUI ](https://github.com/younesaitmha/Managing-School-Database/blob/master/screen.png?raw=true)
+![ GUI ][1]
+
+[1]: https://github.com/younesaitmha/Managing-School-Database/blob/master/screen.png?raw=true "The user interface"

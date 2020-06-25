@@ -3,3 +3,14 @@
 ![ GUI ][1]
 
 [1]: https://github.com/younesaitmha/Managing-School-Database/blob/master/screen.png?raw=true "The user interface"
+
+## requirements
+
+> numpy \
+> pandas \
+> matplotlib \
+> mysql-connector \
+> pillow
+
+for the installation use the command
+> pip install -r requirements.txt
